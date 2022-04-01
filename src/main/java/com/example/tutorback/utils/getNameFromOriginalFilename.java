@@ -2,7 +2,7 @@ package com.example.tutorback.utils;
 
 /**
  * @author Aky
- * @version 1.0
+ * @version 1.1
  * @date 2022/3/30 14:04
  */
 public class getNameFromOriginalFilename {

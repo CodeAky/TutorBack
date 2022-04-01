@@ -5,7 +5,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * @author Aky
- * @version 1.0
+ * @version 1.1
  * @date 2022/3/30 15:55
  */
 public class MyPicConfig implements WebMvcConfigurer {
